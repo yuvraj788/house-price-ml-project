@@ -31,6 +31,8 @@ The main steps of the project include:
    - **XGBoost Classifier**
 
 6. **Model Evaluation**:  
-   Each model's performance is evaluated based on accuracy, precision, recall, and other classification metrics.
+    Each model is trained on the training data and evaluated on the testing data. The performance of each model is compared to determine which provides the best classification results for the house price 
+    categorization task.
 
-   than we find the final result
+
+   

@@ -11,7 +11,7 @@ The main steps of the project include:
 
 2. **Data Visualization**:  
    Visualizations are created to better understand the data and its relationships:
-   - **Frequency Heatmap**: Displays the correlation between features.
+   - **Heatmap**: Displays the correlation between features.
    - **Scatter Plots**: Shows the relationships between numerical features and the target variable (price).
    - **Count Plot**: Analyzes the distribution of categorical features.
 
